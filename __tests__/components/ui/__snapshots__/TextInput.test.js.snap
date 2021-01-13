@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NTextInput/> renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "color": "#5C5C5C",
+          "flexDirection": "row",
+          "fontFamily": "OpenSans-Regular",
+          "fontSize": 18,
+          "height": 52,
+          "paddingHorizontal": 10,
+          "width": "100%",
+        },
+        Object {
+          "borderColor": "#d3d3d3",
+        },
+        null,
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      editable={true}
+      multiline={false}
+      numberOfLines={null}
+      onChangeText={[Function]}
+      onSubmitEditing={null}
+      placeholderTextColor="#5C5C5C"
+      rejectResponderTermination={true}
+      secureTextEntry={false}
+      selectionColor="#027DFF"
+      style={
+        Array [
+          Object {
+            "color": "#5C5C5C",
+            "fontFamily": "OpenSans-Regular",
+            "fontSize": 18,
+            "height": 50,
+            "width": "100%",
+          },
+          null,
+        ]
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;

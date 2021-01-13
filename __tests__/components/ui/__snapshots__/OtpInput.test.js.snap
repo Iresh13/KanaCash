@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OtpInputs/> renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#353B39",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "width": 60,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#fff",
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="numeric"
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        onKeyPress={[Function]}
+        rejectResponderTermination={true}
+        selectionColor="#fff"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "fontSize": 18,
+              "fontWeight": "600",
+              "textAlign": "center",
+            },
+            Object {
+              "color": "#353B39",
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#353B39",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "width": 60,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#fff",
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="numeric"
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        onKeyPress={[Function]}
+        rejectResponderTermination={true}
+        selectionColor="#fff"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "fontSize": 18,
+              "fontWeight": "600",
+              "textAlign": "center",
+            },
+            Object {
+              "color": "#353B39",
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#353B39",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "width": 60,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#fff",
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="numeric"
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        onKeyPress={[Function]}
+        rejectResponderTermination={true}
+        selectionColor="#fff"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "fontSize": 18,
+              "fontWeight": "600",
+              "textAlign": "center",
+            },
+            Object {
+              "color": "#353B39",
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#353B39",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 50,
+            "justifyContent": "center",
+            "width": 60,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#fff",
+          },
+        ]
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        keyboardType="numeric"
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        onKeyPress={[Function]}
+        rejectResponderTermination={true}
+        selectionColor="#fff"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "fontSize": 18,
+              "fontWeight": "600",
+              "textAlign": "center",
+            },
+            Object {
+              "color": "#353B39",
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,82 @@
+{
+  "name": "KanaCash",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest --no-cache -u",
+    "lint": "eslint .",
+    "prepare": "patch-package"
+  },
+  "rnpm": {
+    "assets": [
+      "src/assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.9.0",
+    "@react-native-community/clipboard": "^1.5.1",
+    "@react-native-community/datetimepicker": "^2.3.2",
+    "@react-native-community/masked-view": "^0.1.7",
+    "@react-native-community/netinfo": "^5.7.0",
+    "@react-native-community/picker": "^1.6.5",
+    "@react-navigation/drawer": "^5.1.1",
+    "@react-navigation/native": "^5.0.9",
+    "@react-navigation/stack": "^5.2.1",
+    "axios": "^0.21.0",
+    "moment": "^2.24.0",
+    "react": "16.9.0",
+    "react-native": "^0.62.1",
+    "react-native-device-info": "^5.6.2",
+    "react-native-gesture-handler": "^1.6.0",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-keyboard-aware-scroll-view": "^0.9.1",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.2.0",
+    "react-native-sensitive-info": "^6.0.0-alpha.5",
+    "react-native-simple-shadow-view": "^1.6.3",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^12.0.3",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-vector-icons": "6.6.0",
+    "react-native-webview": "^10.3.2",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "yup": "^0.28.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "babel-plugin-root-import": "^6.5.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-dom": "^16.13.1",
+    "react-test-renderer": "16.9.0",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupFiles": [
+      "./__mocks__/react-native-reanimated.js",
+      "./node_modules/react-native-gesture-handler/jestSetup.js",
+      "./__mocks__/@react-native-community/async-storage.js",
+      "./__mocks__/@react-native-community/netInfo.js",
+      "./__mocks__/@react-native-community/image-picker.js",
+      "./__mocks__/setupTests.js"
+    ],
+    "transformIgnorePatterns": []
+  }
+}

@@ -1,0 +1,591 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon/> CalendarIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight={18}
+  bbWidth={18}
+  fill="none"
+  focusable={false}
+  height={18}
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 18,
+        "width": 18,
+      },
+    ]
+  }
+  vbHeight={18}
+  vbWidth={18}
+  width={18}
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGPath
+      clipRule={0}
+      d="M15.89 1.406h-.843V0H13.64v1.406H4.359V0H2.953v1.406H2.11C.946 1.406 0 2.353 0 3.516V15.89C0 17.054.946 18 2.11 18h13.78c1.164 0 2.11-.946 2.11-2.11V3.517c0-1.163-.946-2.11-2.11-2.11zm.704 14.485a.704.704 0 01-.703.703H2.109a.704.704 0 01-.703-.703V6.609h15.188v9.282zM1.406 5.203h15.188V3.516a.704.704 0 00-.703-.704h-.844V4.22H13.64V2.812H4.359V4.22H2.953V2.812H2.11a.704.704 0 00-.703.704v1.687z"
+      fill={4286019447}
+      fillRule={0}
+      propList={
+        Array [
+          "fill",
+          "fillRule",
+        ]
+      }
+    />
+    <RNSVGPath
+      d="M2.672 8.086h1.406v1.406H2.672zM5.484 8.086H6.89v1.406H5.484zM8.297 8.086h1.406v1.406H8.297zM11.109 8.086h1.406v1.406h-1.406zM13.922 8.086h1.406v1.406h-1.406zM2.672 10.898h1.406v1.406H2.672zM5.484 10.898H6.89v1.406H5.484zM8.297 10.898h1.406v1.406H8.297zM11.109 10.898h1.406v1.406h-1.406zM2.672 13.711h1.406v1.406H2.672zM5.484 13.711H6.89v1.406H5.484zM8.297 13.711h1.406v1.406H8.297zM11.109 13.711h1.406v1.406h-1.406zM13.922 10.898h1.406v1.406h-1.406z"
+      fill={4286019447}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> ClockIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight={40}
+  bbWidth={40}
+  fill="none"
+  focusable={false}
+  height={40}
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 40,
+        "width": 40,
+      },
+    ]
+  }
+  vbHeight={40}
+  vbWidth={40}
+  width={40}
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGPath
+      d="M20 38.044c-9.95 0-18.044-8.094-18.044-18.04C1.96 10.053 10.05 1.955 20 1.955c9.947 0 18.04 8.094 18.04 18.044 0 9.947-8.09 18.044-18.04 18.044z"
+      fill={4294967295}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+    <RNSVGPath
+      d="M20 .034C8.99.034.031 8.991.031 20.004c0 11.008 8.96 19.965 19.969 19.965 11.01 0 19.969-8.957 19.969-19.966C39.969 8.991 31.012.034 20 .034zm0 38.01c-9.95 0-18.044-8.094-18.044-18.04C1.96 10.053 10.05 1.955 20 1.955c9.947 0 18.04 8.094 18.04 18.044 0 9.947-8.09 18.044-18.04 18.044z"
+      fill={4281545523}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+    <RNSVGPath
+      d="M21.44 17.319V3.54h-2.877v13.775c-.528.283-.96.716-1.244 1.243l-7.722-.003v2.878h7.722A3.04 3.04 0 0020 23.05a3.055 3.055 0 003.056-3.056c.003-1.16-.66-2.16-1.615-2.675zm-.374 3.112a1.16 1.16 0 01-1.066.722 1.14 1.14 0 01-.456-.094A1.153 1.153 0 0120 18.85c.484 0 .897.3 1.066.722.053.134.087.278.087.431 0 .15-.034.294-.087.428zM35.603 21.153c.637 0 1.153-.515 1.153-1.15 0-.635-.516-1.15-1.153-1.15s-1.153.515-1.153 1.15c0 .635.516 1.15 1.153 1.15zM34.087 13.197a1.154 1.154 0 00-.276-2.11 1.148 1.148 0 00-.873.116 1.153 1.153 0 00.724 2.139c.15-.02.295-.07.425-.145zM28.378 5.49a1.147 1.147 0 00-1.716.848 1.15 1.15 0 00.566 1.146 1.15 1.15 0 001.575-.422 1.157 1.157 0 00-.425-1.571zM12.775 7.483a1.15 1.15 0 10-1.15-1.992 1.15 1.15 0 001.15 1.992zM7.062 11.2a1.15 1.15 0 00-1.685 1.293A1.15 1.15 0 107.062 11.2zM4.397 18.85a1.15 1.15 0 000 2.3c.634 0 1.15-.516 1.15-1.153 0-.634-.516-1.147-1.15-1.147zM5.91 26.806a1.153 1.153 0 00-.423 1.572 1.154 1.154 0 002.11-.278 1.15 1.15 0 00-1.688-1.294zM12.772 32.516a1.15 1.15 0 10-1.15 1.991 1.15 1.15 0 001.15-1.991zM19.997 34.453a1.148 1.148 0 00-1.15 1.15 1.151 1.151 0 101.15-1.15zM27.225 32.519a1.147 1.147 0 00-.126 1.91 1.15 1.15 0 10.126-1.91zM34.087 26.806a1.15 1.15 0 10.422 1.572 1.148 1.148 0 00-.422-1.572z"
+      fill={4281282351}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> CloseIconDrawer renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight={30}
+  bbWidth={30}
+  fill="none"
+  focusable={false}
+  height={30}
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 30,
+        "width": 30,
+      },
+    ]
+  }
+  vbHeight={30}
+  vbWidth={30}
+  width={30}
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGPath
+      d="M26.25 15c0-6.21-5.04-11.25-11.25-11.25S3.75 8.79 3.75 15 8.79 26.25 15 26.25 26.25 21.21 26.25 15z"
+      propList={
+        Array [
+          "stroke",
+          "strokeMiterlimit",
+        ]
+      }
+      stroke={4281545523}
+      strokeMiterlimit={10}
+    />
+    <RNSVGPath
+      d="M18.75 18.75l-7.5-7.5M11.25 18.75l7.5-7.5"
+      propList={
+        Array [
+          "stroke",
+          "strokeLinecap",
+          "strokeLinejoin",
+        ]
+      }
+      stroke={4281545523}
+      strokeLinecap={1}
+      strokeLinejoin={1}
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> DashboardIcon renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "paddingRight": 8,
+      },
+      null,
+    ]
+  }
+>
+  <RNSVGSvgView
+    bbHeight={15}
+    bbWidth={15}
+    fill="none"
+    focusable={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        Object {
+          "height": 15,
+          "width": 15,
+        },
+        Object {
+          "flex": 0,
+          "height": 15,
+          "width": 15,
+        },
+      ]
+    }
+  >
+    <RNSVGGroup
+      fill={null}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    >
+      <RNSVGPath
+        d="M.5 8.833h6.667V.5H.5v8.333zm0 6.667h6.667v-5H.5v5zm8.333 0H15.5V7.167H8.833V15.5zm0-15v5H15.5v-5H8.833z"
+        fill={4281175295}
+        propList={
+          Array [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`<Icon/> EditProfileIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight={30}
+  bbWidth={30}
+  fill="none"
+  focusable={false}
+  height={30}
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 30,
+        "width": 30,
+      },
+    ]
+  }
+  vbHeight={30}
+  vbWidth={30}
+  width={30}
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGCircle
+      cx={15}
+      cy={15}
+      fill={4281175295}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+      r={15}
+    />
+    <RNSVGPath
+      d="M9 18.64v2.027a.33.33 0 00.333.333h2.027a.312.312 0 00.233-.1l7.28-7.273-2.5-2.5L9.1 18.4a.327.327 0 00-.1.24zm11.807-6.947a.664.664 0 000-.94l-1.56-1.56a.665.665 0 00-.94 0l-1.22 1.22 2.5 2.5 1.22-1.22z"
+      fill={4294967295}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> HamburgerSvgIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight="12"
+  bbWidth="18"
+  fill="none"
+  focusable={false}
+  height="12"
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 12,
+        "width": 18,
+      },
+    ]
+  }
+  vbHeight={12}
+  vbWidth={18}
+  width="18"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGPath
+      d="M17.05 5H0.95C0.42533 5 0 5.42533 0 5.95V6.05C0 6.57467 0.42533 7 0.95 7H17.05C17.5747 7 18 6.57467 18 6.05V5.95C18 5.42533 17.5747 5 17.05 5Z"
+      fill={4280229663}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+    <RNSVGPath
+      d="M17.05 10H0.95C0.42533 10 0 10.4253 0 10.95V11.05C0 11.5747 0.42533 12 0.95 12H17.05C17.5747 12 18 11.5747 18 11.05V10.95C18 10.4253 17.5747 10 17.05 10Z"
+      fill={4280229663}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+    <RNSVGPath
+      d="M17.05 0H0.95C0.42533 0 0 0.425329 0 0.95V1.05C0 1.57467 0.42533 2 0.95 2H17.05C17.5747 2 18 1.57467 18 1.05V0.95C18 0.425329 17.5747 0 17.05 0Z"
+      fill={4280229663}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> HomeIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight="20"
+  bbWidth="20"
+  fill="none"
+  focusable={false}
+  height="20"
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 20,
+        "width": 20,
+      },
+    ]
+  }
+  vbHeight={20}
+  vbWidth={20}
+  width="20"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGCircle
+      cx="10"
+      cy="10"
+      fill={4294967295}
+      propList={
+        Array [
+          "fill",
+          "stroke",
+        ]
+      }
+      r="9.5"
+      stroke={4281677881}
+    />
+    <RNSVGPath
+      d="M15.8445 9.34317L10.4451 3.26128C10.2177 3.00462 9.78094 3.00462 9.55357 3.26128L4.15417 9.34317C4.07646 9.4305 4.02544 9.53884 4.00734 9.65502C3.98923 9.7712 4.00481 9.89021 4.05218 9.99758C4.14817 10.2171 4.36295 10.3582 4.59992 10.3582H5.79979V14.6156C5.79979 14.7769 5.863 14.9316 5.97551 15.0456C6.08801 15.1597 6.24061 15.2237 6.39972 15.2237H8.19952C8.35863 15.2237 8.51123 15.1597 8.62374 15.0456C8.73625 14.9316 8.79945 14.7769 8.79945 14.6156V12.1828H11.1992V14.6156C11.1992 14.7769 11.2624 14.9316 11.3749 15.0456C11.4874 15.1597 11.64 15.2237 11.7991 15.2237H13.5989C13.758 15.2237 13.9106 15.1597 14.0231 15.0456C14.1356 14.9316 14.1989 14.7769 14.1989 14.6156V10.3582H15.3987C15.5149 10.3587 15.6287 10.325 15.7263 10.261C15.8239 10.1971 15.901 10.1057 15.9482 9.99812C15.9955 9.89052 16.0108 9.7713 15.9924 9.655C15.974 9.5387 15.9226 9.43036 15.8445 9.34317Z"
+      fill={4281677881}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> LogoutIcon renders correctly 1`] = `
+<RNSVGSvgView
+  align="xMidYMid"
+  bbHeight="24"
+  bbWidth="25"
+  fill="none"
+  focusable={false}
+  height="24"
+  meetOrSlice={0}
+  minX={0}
+  minY={0}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 24,
+        "width": 25,
+      },
+    ]
+  }
+  vbHeight={24}
+  vbWidth={25}
+  width="25"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGGroup>
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M12.9948 22C7.47175 22 2.99475 17.523 2.99475 12C2.99475 6.477 7.47175 2 12.9948 2C14.5474 1.99884 16.0789 2.35978 17.4677 3.05414C18.8564 3.74851 20.0641 4.75718 20.9948 6H18.2848C17.13 4.98176 15.7059 4.31836 14.1835 4.0894C12.661 3.86044 11.1048 4.07566 9.70164 4.70922C8.29846 5.34277 7.1079 6.36776 6.27282 7.66119C5.43774 8.95462 4.99362 10.4615 4.99375 12.0011C4.99388 13.5407 5.43825 15.0475 6.27354 16.3408C7.10884 17.6341 8.29957 18.6589 9.70285 19.2922C11.1061 19.9255 12.6624 20.1405 14.1848 19.9113C15.7072 19.6821 17.1312 19.0184 18.2858 18H20.9958C20.065 19.243 18.8572 20.2517 17.4682 20.9461C16.0793 21.6405 14.5476 22.0013 12.9948 22ZM19.9948 16V13H11.9948V11H19.9948V8L24.9948 12L19.9948 16Z"
+          fill={4284243036}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGGroup>
+    <RNSVGDefs>
+      <RNSVGClipPath
+        name="clip0"
+      >
+        <RNSVGRect
+          fill={4294967295}
+          height="24"
+          matrix={
+            Array [
+              1,
+              0,
+              0,
+              1,
+              0.994751,
+              0,
+            ]
+          }
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+          width="24"
+          x={0}
+          y={0}
+        />
+      </RNSVGClipPath>
+      <RNSVGClipPath
+        name="clip1"
+      >
+        <RNSVGRect
+          fill={4294967295}
+          height="24"
+          matrix={
+            Array [
+              1,
+              0,
+              0,
+              1,
+              0.994751,
+              0,
+            ]
+          }
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+          width="24"
+          x={0}
+          y={0}
+        />
+      </RNSVGClipPath>
+    </RNSVGDefs>
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;
+
+exports[`<Icon/> ProfileIcon renders correctly 1`] = `
+<RNSVGSvgView
+  bbHeight="30"
+  bbWidth="30"
+  fill="none"
+  focusable={false}
+  height="30"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      },
+      Object {
+        "flex": 0,
+        "height": 30,
+        "width": 30,
+      },
+    ]
+  }
+  width="30"
+>
+  <RNSVGGroup
+    fill={null}
+    propList={
+      Array [
+        "fill",
+      ]
+    }
+  >
+    <RNSVGPath
+      d="M16.5 2H4.5C3.675 2 3 2.675 3 3.5V16.5C3 17.325 3.675 18 4.5 18H16.5C17.325 18 18 17.325 18 16.5V3.5C18 2.675 17.325 2 16.5 2ZM16 16H5V4H16V16ZM7 11H14V12H7V11ZM7 13H14V14H7V13ZM8 6.5C8.00007 6.30295 8.03894 6.10785 8.11441 5.92582C8.18988 5.7438 8.30046 5.57842 8.43984 5.43913C8.57922 5.29984 8.74467 5.18937 8.92675 5.11403C9.10882 5.03868 9.30395 4.99993 9.501 5C9.69805 5.00007 9.89315 5.03894 10.0752 5.11441C10.2572 5.18988 10.4226 5.30046 10.5619 5.43984C10.7012 5.57922 10.8116 5.74467 10.887 5.92675C10.9623 6.10882 11.0011 6.30395 11.001 6.501C11.0009 6.89896 10.8427 7.28056 10.5612 7.56187C10.2797 7.84317 9.89796 8.00113 9.5 8.001C9.10204 8.00087 8.72044 7.84265 8.43913 7.56116C8.15783 7.27967 7.99987 6.89796 8 6.5ZM10.5 8H8.5C7.675 8 7 8.45 7 9V10H12V9C12 8.45 11.325 8 10.5 8Z"
+      fill={4284900966}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    />
+  </RNSVGGroup>
+</RNSVGSvgView>
+`;

@@ -1,0 +1,29 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="widget-root"></div>
+    <script
+      src="https://sandbox.api.machpay.com/v2/widget/widget.js"
+      charset="utf-8"
+    ></script>
+    <script>
+      var widget = new MachnetWidget({
+        elementId: 'widget-root',
+        senderId: '378360dc-f9e8-46a0-ae4e-f06ac8480468',
+        width: '100%',
+        height: '200px',
+        type: 'kyc',
+        locale: 'en',
+        multiStep: true,
+        stylesheet: 'https://uat.firmpay.com/firmpay-style.css',
+        token:
+          'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZW5kZXJJZCI6Ik16YzRNell3WkdNdFpqbGxPQzAwTm1Fd0xXRmxOR1V0WmpBMllXTTRORGd3TkRZNFxyXG4iLCJleHAiOjE1OTU1NzgxODEsIm10b0lkIjoiTVRJXHJcbiJ9.rjQEF05kli4XHKcocE9jiLJc4kWSmDBVBdD8_uePfnI',
+      });
+      widget.init();
+    </script>
+  </body>
+</html>

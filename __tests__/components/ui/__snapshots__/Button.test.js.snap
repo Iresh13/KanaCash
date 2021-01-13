@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "borderRadius": 0,
+      "opacity": 1,
+      "padding": null,
+      "width": 710,
+    }
+  }
+>
+  <RNSVGSvgView
+    bbHeight={50}
+    bbWidth={710}
+    fill="none"
+    focusable={false}
+    height={50}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        Object {
+          "flex": 0,
+          "height": 50,
+          "width": 710,
+        },
+      ]
+    }
+    width={710}
+  >
+    <RNSVGGroup
+      fill={null}
+      propList={
+        Array [
+          "fill",
+        ]
+      }
+    >
+      <RNSVGGroup>
+        <RNSVGRect
+          fill={
+            Array [
+              1,
+              "prefix__paint0_linear",
+            ]
+          }
+          height={50}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+          rx={5}
+          width={710}
+          x={0}
+          y={0}
+        />
+      </RNSVGGroup>
+      <RNSVGDefs>
+        <RNSVGLinearGradient
+          gradient={
+            Array [
+              0,
+              -16613889,
+              1,
+              -16613889,
+            ]
+          }
+          gradientTransform={null}
+          gradientUnits={1}
+          name="prefix__paint0_linear"
+          x1={90}
+          x2={89.35}
+          y1={15.714}
+          y2={60.03}
+        />
+      </RNSVGDefs>
+    </RNSVGGroup>
+  </RNSVGSvgView>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#027DFF",
+        "borderColor": "transparent",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "height": 0,
+        "left": 0,
+        "position": "absolute",
+        "top": 0,
+      }
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "OpenSans-SemiBold",
+          "fontSize": 20,
+          "lineHeight": 25,
+        },
+        undefined,
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          Object {
+            "borderRadius": 5,
+            "color": "#ffffff",
+            "fontFamily": "OpenSans-SemiBold",
+            "fontSize": 18,
+            "lineHeight": 50,
+            "position": "absolute",
+            "textAlign": "center",
+            "width": 715,
+          },
+        ],
+      ]
+    }
+    text="Button"
+  >
+    Button
+  </Text>
+</View>
+`;

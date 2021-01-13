@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Text/> BoldText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "fontFamily": "OpenSans-Bold",
+        "fontSize": 24,
+        "fontWeight": "600",
+        "lineHeight": 41,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<Text/> LightText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#5C5C5C",
+        "fontFamily": "OpenSans-Light",
+        "fontSize": undefined,
+        "lineHeight": 22,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<Text/> MediumText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#1F1F1F",
+        "fontFamily": "OpenSans-Bold",
+        "fontSize": 18,
+        "fontWeight": "500",
+        "lineHeight": 22,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<Text/> RegularText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#5C5C5C",
+        "fontFamily": "OpenSans-Regular",
+        "fontSize": 16,
+        "lineHeight": 20,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<Text/> SemiBoldText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "fontFamily": "OpenSans-SemiBold",
+        "fontSize": 20,
+        "lineHeight": 25,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+/>
+`;
